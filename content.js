@@ -42,7 +42,7 @@ class Dorkeysy {
     init() {
         this.createUI();
         this.attachKeyboardListeners();
-        this.showToast('Dork Helper Ready', 'Press Ctrl+Shift+H to view shortcuts');
+        this.showToast('Dorkeysy Ready', 'Press Ctrl+Shift+H to view shortcuts');
     }
 
     createUI() {
