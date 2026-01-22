@@ -28,12 +28,11 @@ Featuring a modern UI inspired by Shadcn/Vercel design systems with automatic da
 ## ✨ Features
 
 *   **⚡ Keyboard-First Workflow:** Insert operators like `site:`, `inurl:`, and logic gates instantly via shortcuts.
-*   **🎨 Modern UI:** Clean, unobtrusive overlay that blends with modern web aesthetics.
 *   **bw/ Interactive Filetype Selector:** A dedicated mode to quickly filter by file extension (PDF, Excel, SQL, etc.).
 *   **↩️ Smart Undo:** Built-in history tracking allows you to undo dork manipulations safely.
-*   **🌙 Dark Mode:** Automatically detects system color preferences and adjusts the UI accordingly.
+*   **🌙 ShadCN like theme:** Features Vercel like design.
 *   **📝 Text Manipulation:** Quickly quote selections or wrap every word in quotes for strict searching.
-*   **🌐 Universal Compatibility:** Works on any website with an input field (Google, Shodan, Bing, etc.).
+*   **🌐 Universal Compatibility:** Works on any website with an input field (Google,Bing, etc.).
 
 ## 🚀 Installation
 
