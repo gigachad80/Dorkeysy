@@ -13,6 +13,9 @@ Dorkeysy ( Dork easily with shortcut keys ) is a Chrome Extension designed for O
 
 Featuring a modern UI inspired by Shadcn/Vercel design systems with automatic dark mode support.
 
+>[!NOTE]
+>Use the / (forward slash) key as a productivity shortcut. On many websites, pressing / instantly moves the cursor to the search bar, so you can start typing without using the mouse.
+
 ## 📋 Table of Contents
 - [Features](#-features)
 - [Installation](#-installation)
