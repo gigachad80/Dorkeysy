@@ -6,7 +6,7 @@
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-purple.svg)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-<img width="500" height="674" alt="dorkeysy" src="https://github.com/user-attachments/assets/23271e3a-4c6f-45bf-8b13-5ba1bc494ce2" />
+<img width="300" height="300" alt="dorkeysy" src="https://github.com/user-attachments/assets/23271e3a-4c6f-45bf-8b13-5ba1bc494ce2" />
 
 
 Dorkeysy is a Chrome Extension designed for OSINT researchers, pentesters. It uses a sleek, keyboard-centric interface into your browser, allowing you to use complex Google Dorks and search queries without lifting your hands from the keyboard. (like a pro Vim user)
