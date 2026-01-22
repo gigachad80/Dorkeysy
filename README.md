@@ -9,7 +9,7 @@
 <img width="300" height="300" alt="dorkeysy" src="https://github.com/user-attachments/assets/23271e3a-4c6f-45bf-8b13-5ba1bc494ce2" />
 
 
-Dorkeysy is a Chrome Extension designed for OSINT researchers, pentesters. It uses a sleek, keyboard-centric interface into your browser, allowing you to use complex Google Dorks and search queries without lifting your hands from the keyboard. (like a pro Vim user)
+Dorkeysy ( Dork easily with shortcut keys ) is a Chrome Extension designed for OSINT researchers, pentesters. It uses a sleek, keyboard-centric interface into your browser, allowing you to use complex Google Dorks and search queries without lifting your hands from the keyboard. (like a pro Vim user)
 
 Featuring a modern UI inspired by Shadcn/Vercel design systems with automatic dark mode support.
 
