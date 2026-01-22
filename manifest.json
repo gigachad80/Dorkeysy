@@ -1,1 +1,21 @@
 
+{
+    "manifest_version": 3,
+    "name": "Dorkeysy",
+    "version": "2.1",
+    "description": "Advanced Google Dorking helper with customizable keybindings and templates.",
+    "permissions": [
+        "storage"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
