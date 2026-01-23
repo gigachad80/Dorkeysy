@@ -2,7 +2,7 @@
 
 # Dorkeysy 
 
-**Advanced Google Dorking helper with customizable keybindings and templates.**
+**Advanced Google Dorking helper with customizable keybindings and templates . Dork like Vim user**
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-purple.svg)
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
